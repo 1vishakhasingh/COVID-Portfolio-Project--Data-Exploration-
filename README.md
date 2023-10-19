@@ -1,4 +1,4 @@
-# COVID Portfolio Project Data Exploration
+# COVID Portfolio Project Data Exploration Using SQL
 
 **With the help of this project we  will able to get following things:-**
 
